@@ -40,6 +40,6 @@ Pharmacy management system/
     - **Username**: `admin`
     - **Password**: `admin123`
 
-## Usage
+## here is the Usage
 - After logging in, use the menu to navigate between Medicine Management and Billing.
 - Ensure you add medicines before trying to generate a bill.
